@@ -103,7 +103,8 @@ section {
   color: #777777;
   font-size: 14px;
 }
-.montante {
+.montante,
+.montante-real {
   color: #555555;
   font-weight: 700;
   font-size: 20px;
